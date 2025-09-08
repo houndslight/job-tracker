@@ -4,8 +4,8 @@ A full-stack web application for tracking job applications with user authenticat
 
 ## 🚀 Live Demo
 
-- **Frontend:** https://your-frontend-url.vercel.app
-- **Backend API:** https://your-backend-url.onrender.com/api/applications/
+- **Frontend:** (https://job-tracker-sigma-khaki.vercel.app/)
+- **Backend API:** (https://job-tracker-0r26.onrender.com/)
 
 ## ✨ Features
 
