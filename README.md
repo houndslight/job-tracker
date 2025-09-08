@@ -127,6 +127,6 @@ The application is deployed using:
 
 ## 📧 Contact
 
-Your Name - your-email@example.com
+zachary ((houndslight)) - ocean@outlook.lv
 
-Project Link: https://github.com/yourusername/job-tracker
+Project Link: https://github.com/houndslight/job-tracker
