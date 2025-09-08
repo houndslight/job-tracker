@@ -1,13 +1,13 @@
-# 🎯 Job Application Tracker
+# Job Application Tracker
 
 A full-stack web application for tracking job applications with user authentication, CRUD operations, search functionality, and responsive design.
 
-## 🚀 Live Demo
+## Live Demo
 
 - **Frontend:** (https://job-tracker-sigma-khaki.vercel.app/)
 - **Backend API:** (https://job-tracker-0r26.onrender.com/)
 
-## ✨ Features
+## Features
 
 - **User Authentication:** Secure registration and login system
 - **Dashboard:** Overview with application statistics and status tracking
@@ -17,7 +17,7 @@ A full-stack web application for tracking job applications with user authenticat
 - **Responsive Design:** Works seamlessly on desktop and mobile devices
 - **RESTful API:** Clean, well-documented backend API
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 - React.js
@@ -36,7 +36,7 @@ A full-stack web application for tracking job applications with user authenticat
 - **Backend:** Render
 - **Database:** PostgreSQL (Render)
 
-## 🏃‍♂️ Quick Start
+## Quick Start
 
 ### Prerequisites
 - Python 3.11+
@@ -101,7 +101,7 @@ npm start
 - `search` - Search by company, role, or location
 - `status` - Filter by application status
 
-## 🎨 Design Decisions
+## Design Decisions
 
 - **Clean UI:** Focused on usability with a modern card-based design
 - **Mobile-First:** Responsive design ensures great experience on all devices
@@ -109,7 +109,7 @@ npm start
 - **Performance:** Efficient API queries with search and filtering
 - **Security:** Proper authentication and CORS configuration
 
-## 🚀 Deployment
+## Deployment
 
 The application is deployed using:
 - **Render** for Django backend with PostgreSQL
@@ -117,7 +117,7 @@ The application is deployed using:
 - Environment variables for configuration
 - WhiteNoise for static file serving
 
-## 🤝 Contributing
+## Contributing
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
@@ -125,8 +125,8 @@ The application is deployed using:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📧 Contact
+## Contact
 
-zachary ((houndslight)) - ocean@outlook.lv
+zachary (houndslight) - ocean@outlook.lv
 
 Project Link: https://github.com/houndslight/job-tracker
